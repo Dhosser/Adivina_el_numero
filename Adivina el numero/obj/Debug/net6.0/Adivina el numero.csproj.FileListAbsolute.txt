@@ -1,0 +1,15 @@
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\bin\Debug\net6.0\Adivina el numero.exe
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\bin\Debug\net6.0\Adivina el numero.deps.json
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\bin\Debug\net6.0\Adivina el numero.runtimeconfig.json
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\bin\Debug\net6.0\Adivina el numero.dll
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\bin\Debug\net6.0\Adivina el numero.pdb
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.csproj.AssemblyReference.cache
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.AssemblyInfoInputs.cache
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.AssemblyInfo.cs
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.csproj.CoreCompileInputs.cache
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.dll
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\refint\Adivina el numero.dll
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.pdb
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\Adivina el numero.genruntimeconfig.cache
+D:\ConversorDeMetrosAPies_Csharp\Adivina el numero\obj\Debug\net6.0\ref\Adivina el numero.dll
